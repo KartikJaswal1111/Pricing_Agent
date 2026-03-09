@@ -23,8 +23,8 @@ containerized microservice.
 ## 🚀 Getting Started
 
 ### Using Docker (Recommended)
-1. Build the image: `docker build -t pricing-agent .`
-2. Run the container: `docker run -p 8501:8501 pricing-agent`
+1. Build the image: `docker build -t pricing_agent .`
+2. Run the container: `docker run -p 8501:8501 pricing_agent`
 
 ### Local Development
 1. `pip install -r requirements.txt`
